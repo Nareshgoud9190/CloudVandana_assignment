@@ -1,0 +1,6 @@
+<script>
+let str="Hi Good Morning"
+let str1= str.split(" ").reverse().join("")
+let str2=str1.split(" ").reverse()
+console.log(str2)
+</script>
