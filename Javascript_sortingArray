@@ -1,0 +1,6 @@
+<Script>
+Let arr=[2,5,20,46,6,46]
+Console.log("Unsorted arry " arr)
+arr.sort((a,b)=>b-a)
+Console.log(("sorted array" arr)
+</Script>
